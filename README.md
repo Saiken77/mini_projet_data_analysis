@@ -45,7 +45,7 @@ Ce projet consiste à extraire et analyser des données géographiques du Burkin
 mini_projet_data_analysis/
 ├── README.md                    # Ce fichier
 ├── burkina_geo_analysis.py      # Script Python principal
-├── burkina_geo_analysis.ipynb   # Notebook Google Colab
+├── burkina_geo_analysis.ipynb   # Notebook Jupyter
 └── data/
     ├── BF.txt                  # Données initiales
     ├── burkina_location.csv    # Données principales
